@@ -1,0 +1,19 @@
+body {
+    color: green;
+    font-size: 30px;
+}
+p{
+    color: red;
+}
+div.cs1{
+    color: aqua;
+}
+#d1{
+    color: black;
+}
+h1,h2,h3{
+    color: chartreuse;
+}
+#d2 p{
+    color: darkcyan;
+}

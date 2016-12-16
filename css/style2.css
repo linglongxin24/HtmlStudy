@@ -1,0 +1,38 @@
+#d1 {
+    width: 200px;
+    height: 200px;
+    background-color: darkcyan;
+}
+
+#d1_1 {
+    left: 30px;
+    top: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: #688b34;
+    display: inline;
+    position: absolute;
+}
+
+#d2 {
+
+    left: 30px;
+    top: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: darkorchid;
+    display: inline;
+    position: relative;
+}
+.c1{
+    background-color: darkcyan;
+}
+.c2{
+    width :200px ;
+    height :200px ;
+    font-size :25px ;
+    font-family : "Arial" ;
+    font-weight :900 ;
+    cursor :wait ;
+    border :1px solid black ;
+}
